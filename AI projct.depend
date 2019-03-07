@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1453263289 source:c:\users\hamed\desktop\ai projct\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<string>
+
